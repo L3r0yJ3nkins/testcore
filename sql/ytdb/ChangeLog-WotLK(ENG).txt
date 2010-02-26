@@ -1,0 +1,635 @@
+UPDATE 535_(9403)
++ all fixes from forum;
++ spawn;
++ quest scripts
++ mob's gossip menues
++ new template from WDB
++ update vendors: "Arena Season 8" + "Tier 10" - FULL
++ fix column "type_flag" in "creature_template" from WDB
++ Vault of Archavon: - "Toravon the Ice Watcher"
++ full respawn veins: Kalimdor
++ Event: "Kalu'ak Fishing Derby"
++ processed 87 caches (3.3.2)
+
+UPDATE 534_(9356)
++ All fixes from forum
++ spawn
++ quest scripts
++ mob's gossip menues
++ new templates from WDB
++ filling the new field "RewHonorMultiplier" in "quest_template" from WDB
++ filling the new field "RewRepValueIdX" in "quest_template" from WDB
++ fix pull "rare" mobs
++ World Events - "Love is in the Air" - 45 new quests (full)
++ proccesed 38 caches (3.3.2)
+
+UPDATE 533_(9311)
++ 3.3.0a => 3.3.2
++ All the patches from forums that were accepted (look under "Accepted patches")
++ Spawns
++ Scripts for Quests
++ Gossip Menus for Mobs
++ New templates from game caches (WDB)
++ Full filling the new field "RewXPId" in "quest_template" from WDB
++ Upgrade from 3.3.0a to 3.3.2
++ Processed 419 Cache Folders (3.3.0a) 
+
+UPDATE 532_(9299)
++ All the patches from forums that were accepted (look under "Accepted patches")
++ Spawns
++ Scripts for Quests
++ Gossip Menus for Mobs
++ Fixes for column "QuestFlags" from WDB. Due to the newest update in Mangos Core.
++ Fixes from npc loots (creatureloot)
++ Fixes for "item_templates" taken from WDB
++ Fixes for npc displayids ("creature_template") taken from WDB
++ Fixes for column "EndText" in "quest_template" taken from WDB
++ Add data to new column "CompletedText" in "quest_template" taken from WDB
++ New Template from WDB
++ Processed 416 Cache Folders (3.3.0a)
+
+UPDATE 531_(9260)
++ all fixes from forum
++ spawn
++ quest scripts
++ mob's gossip menues
++ fix tokens  drop
++ fix conditions "quest_template"
++ new templates from WDB
++ processed 378 caches (3.3.0a)
+
+UPDATE 530_(9225)
++ All fixes from forum
++ spawn
++ quest scripts
++ mob's gossip menues
++ text update for "quest_template"
++ fix templates from WDB
++ processed 347 caches (3.3.0a)
+
+UPDATE 529_(9171)
++ All fixes from forum;
++ spawn
++ quest scripts
++ mob's gossip menues
+++ branch 3.2.2a => 3.3.0a
++ "quest_template" + 204 (full for 3.3.0a)
++ "creature_template" + 390
++ "gameobject_template" + 181
++ "item_template" + 818
++ "creature_involvedrelation" + 47
++ "creature_questrelation" + 48
++ "creature_loot_template" + 1666
++ "gameobject_loot_template" + 95
++ "disenchant_loot_template" + 149
++ "item_loot_template" + 36
++ "skinning_loot_template" + 3
++ "npc_vendor" + 988
++ spawn (including new quests)
+- new event quests in the game are not available yet (no data, will be available later), also (to avoid the "freebie") are not available, some normal quests - they are all still in the development.
++ Icecrown Citadel: Halls of Reflection ("alpha")
++ Icecrown Citadel: Pit of Saron ("alpha")
++ Icecrown Citadel: The Forge of Souls ("alpha")
+- Icecrown Citadel (Raids) - closed (in dev)
++ processed 273 caches (3.3.0a)
+
+UPDATE 528_(9112)
++ All fixes from forum
++ spawn
++ quest scripts
++ mob's gossip menues
++ "npc_text" for 3.3.0a ;)
+- latest for 3.2.2‡
+
+UPDATE 527_(9112)
++ All fixes from forum
++ spawn
++ quest scripts
++ mob's gossip menues
++ many the operating time
+
+UPDATE 526_(9084)
++ All fixes from forum
++ spawn
++ quest scripts
++ mob's gossip menues
++ fix "item_template"
++ fix "quest_template"
+
+UPDATE 525_(9047)
++ All fixes from forum
++ spawn
++ quest scripts
++ fixed "gameobject_template" type=0,1,10 by WDB
++ fixed NPC`s money drop 
++ mob's gossip menu
+
+UPDATE 524_(9010)
++ All fixes from forum;
++ spawn;
++ quest scripts;
++ Mob's gossip menues;
++ fix √Œ type=2 for "gossip";
++ fix "fishing_loot_template";
++ fix "skinning_loot_template";
++ fix "prospecting_loot_template";
++ fix "disenchant_loot_template";
++ complete rewrite loot all bosses from Vault of Archavon;
++ processed 235 caches (about 2 GB of data from 3.2.2a, probably the last);
+
+UPDATE 523_(8956)
++ All fixes from forum;
++ spawn;
++ quest scripts;
++ fix "gameobject_template" (type=2 and data3)
++ update vendor's tables;
++ update table "npc_text" from caches/sniffs;
++ respawn herbs: Stonetalon Mountains, Azshara, Ashenvale;
++ events: Hammerfall Under Attack, Thrallmar Demon Attack
++ filling of new tables for the latest core revision
++ processed 223 caches (3.2.2a)
+
+Updating 522_(8902)
++ All fixes from the forum and editing of bug reports (see "adopted patches") 
++ Settlement 
++ Scripts quests 
++ Resettlement colors: Durotar, The Barrens, Mulgore, Desolace 
++ Editing articles of all NPC under 3.2.2a 
++ Update trainers 
++ Handled 190 caches (3.2.2a)
+
+Updating 521_(8873)
++ All fixes from forum
++ spawn
++ quest scripts
++ correction spawn herbs: Tanaris, Un'Goro Crater, Silithus, Feralas, Thousand Needles, Dustwallow Marsh
++ respawn some locations
++ fix trainers;
++ event : "Pilgrim's Bounty" - 8 capitals, 26 quests (need core support)
++ processed 178 caches (3.2.2a)
+
+Updating 520_(8828)
++ All fixes from the forum and editing of bug reports (see "adopted patches") 
++ Settlement 
++ Scripts quests 
++ Adjusted mobs in the Battlegrounds 
++ Adjustment field "Method", "ZoneOrSort", "QuestLevel" table "quest_template" by WDB 
++ Adjustment fields "item_template" by WDB 
++ Adjustment fields "gameobject_template" by WDB 
++ Reference an item: class = 9 AND Quality = 2 
++ Reference an item: class = 9 AND Quality = 3 
++ Reference an item: class = 2,4 AND Quality = 4 
++ Reference an item: class = 0 AND Quality = 1 AND Subclass = 4 
++ Adjustment chances pull ore 
++ Handled 147 caches (3.2.2a)
+
+Updating 519_ (8807)
++ All fixes from the forum and editing of bug reports (see "adopted patches")
++ Settlement
++ Scripts quests
++ Reference an item: class = 2,4 AND Quality = 2
++ Reference an item: class = 2,4 AND Quality = 3
++ Handled 133 cache (3.2.2a)
+
+Updating 518_ (8778) 
++ All fixes from the forum and editing of bug reports (see "adopted patches") 
++ Our ideas and fixes 
++ Settlement 
++ Scripts quests 
++ EVENT "Day of the Dead" (13 quests - all 10 capitals ... sorry Event ended) 
++ Editing prices (ExtendedCost) "npc_vendor" 
++ Filling of the table "mail_level_reward" 
++ Handled 107 caches (3.2.2a) 
+
+Updating 517_ (8754) 
++ Drop rate adjustment of an item in the start location 
++ Editing GO type 31 according to the WDB 
++ Rewrite of the table "mail_loot_template" of DBC 
+
+Updating 516_ (8746) 
++ All fixes from the forum and editing of bug reports (see "adopted patches") 
++ Settlement 
++ Scripts quests 
++ "Item_template" updated field on WDB-3.2.2a: BuyPrice / SellPrice 
++ Reference an item: class = 2,4 AND Quality = 0,1 
++ Reference an item: class = 1 AND Quality = 1 
++ Update of the changes (in passing) fields templet for WDB 
++ Handled 100 caches 
+
+Updating 515_ (8706) 
++ All fixes from the forum and editing of bug reports (see "adopted patches") 
++ Settlement 
++ Scripts quests 
++ Hallow's End: Quests (115) / settlement 
++ Hallow's End: Headless Horseman - updated stats / Loot 
++ "Item_template" updated field on WDB-3.2.2a: stackable / ItemLevel / RequiredLevel / RequiredSkill / RequiredSkillRank 
++ 30 new quests available in the game process 
++ Handled 79 caches (3.2.2a) 
+
+Updating 514_ (8646) 
++ All fixes from the forum and editing of bug reports (see "adopted patches") 
++ Settlement 
++ Scripts quests 
++ Populating tables under the core of 8608 - "BattleGround Alterac Valley" (Update 13.10.09) 
++ Adjustment loot badzhikov 
+Handled 62 + cache (3.2.2a) 
+
+Updating 513_ (8597) 
++ All fixes from the forum and editing of bug reports (see "adopted patches") 
++ Scripts quests 
++ + + Upgrades to client 3.2.2a 
++ "Creature_involvedrelation" - +53 
++ "Creature_loot_template" - +73280 
++ "Creature_model_info" - +330 
++ "Creature_questrelation" - +50 
++ "Creature_template" - +484 
++ "Disenchant_loot_template" - +9946 
++ "Fishing_loot_template" - +117 
++ "Gameobject_loot_template" - +1077 
++ "Gameobject_template" - +238 
++ "Item_loot_template" - +209 
++ "Item_template" - +1900 
++ "Npc_text" - +57 
++ "Npc_trainer" - +417 
++ "Npc_vendor" - +4247 
++ "Pickpocketing_loot_template" - +484 
++ "Prospecting_loot_template" - +19 
++ "Skinning_loot_template" - +66 
++ "Quest_template" - FULL-3.2.2a 
++ + + 
++ Settlement under 3.2.2a 
++ Reworked loot all Dungey / raids 
+- Request is for a long time, pour "SQLyog"
+
+
+Updating 512_ (8582) 
++ All fixes from the forum and editing of bug reports (see "adopted patches") 
++ Settlement 
++ Scripts quests 
++ Sniffen trainers / vendors 
+- Probably the last update for 3.1.3
+
+Update 511_(8582)
++ All fixes from the forum and editing of bug reports (see "adopted patches") 
++ Settlement 
++ Scripts quests 
++ Cleaning doubles and practical "gameobject_template" 
++ Populating tables "creature_battleground", "gameobject_battleground" and resp. "creature", "gameobject" under changes in the nucleus 
++ Pull low-level ores, including rare
+
+Updating 510_ (8526) 
++ All fixes from the forum and editing of bug reports (see "adopted patches") 
++ Settlement 
++ Scripts quests 
++ Resettlement ore low levels of Blizzard: Azeroth
+
+Updating 509_ (8506) 
++ All fixes from the forum and editing of bug reports (see "adopted patches") 
++ Quests for review of conditions 
++ Settlement 
++ Scripts quests 
++ Resettlement ore low levels: Kalimdor + draenei starting location
+
+Updating 508_ (8485) 
++ All fixes from the forum and editing of bug reports (see "adopted patches") 
++ Settlement 
++ Scripts quests 
++ Quests for review of conditions
+
+Updating 507_ (8456) 
++ All fixes from the forum and editing of bug reports (see "adopted patches") 
++ Settlement 
++ Pull "rare elite" Rank = 4 
++ Editing trainers "first aid" 
++ Quests for review of conditions 
++ Occupancy / cleaning and pull the high-ore, including the rare 
+- Request is for a long time, pour "SQLyog"
+
+Updating 506_ (8425) 
++ All fixes from the forum and editing of bug reports (see "adopted patches") 
++ Scripts quests 
++ Settlement
+
+Updating 505_ (8396) 
++ All fixes from the forum and editing of bug reports (see "adopted patches") 
++ Scripts quests 
++ Settlement 
++ Editing "creature_template" 
++ Remove Scripts dubliruschih field "KillCreditX" in "creature_template" 
++ Parsee damage to Blizzard 
++ Settlement
+
+Update 504_ (8361) 
++ All fixes from the forum and edits on Bug reports (see "adopted patches") 
++ Scripts quests 
++ Settlement 
++ Edit "creature_template" and "gameobject_template" of WDB (all processed keshey 79) 
++ Edit article items of WDB (Total: 29781/33382) - to finish this review of keshey 3.1.3 
+- All sure to clean the cache of the game! 
+
+Update 503_ (8321) 
++ All fixes from the forum and edits on Bug reports (see "adopted patches") 
++ Scripts quests 
++ Settlement 
++ Edit "creature_template" and "gameobject_template" of WDB (all processed keshey 66) 
++ Edit article items of WDB (Total: 29500/33382) 
+- All sure to clean the cache of the game!
+
+Update 502_ (8277) 
++ All fixes from the forum and edits on Bug reports (see "adopted patches") 
++ Scripts quests 
++ Settlement 
++ Edit "creature_template" and "gameobject_template" of WDB (62 total processed cache) 
++ Edit article items of WDB (+766) _ (Total: 29058/33365) 
+- All sure to clean the cache of the game!
+
+Update 501_ (8231) 
++ All fixes from the forum and edits on Bug reports (see "adopted patches") 
++ Scripts quests 
++ Settlement 
++ Edit "creature_template" and "gameobject_template" of WDB (58 keshey processed) 
++ Edit article items of WDB (+419) 
++ A complete processing loots in "Magisters' Terrace" 
+- All sure to clean the cache of the game!
+
+Update 500_ (8186) 
++ All fixes from the forum and edits on Bug reports (see "adopted patches") 
++ Scripts quests 
++ Settlement 
++ Edit "creature_template" of WDB (54 treated by the cache) 
++ Edit article items of WDB (+842) 
++ Editing error loading 
++ "Ulduar" open normal / heroic in "beta" version (settling polished, the rest is ready), look for scripts in it - hacks for the doors / chests / teleport (with no script to teleport neproydete next 4 bosses) place at the request of http: / / ytdb.ru / forum / showthread.php? t = 4680 
+- All sure to clean the cache of the game!
+
+======================================================================
+Update 499_ (8152) 
++ All fixes from the forum (see "adopted patches") 
++ Edits on Bug reports (see "adopted patches") 
++ Scripts quests 
++ Settlement 
++ New pars loot mobovs
++ Vendors update
++ Trainers update 
++ Snif template quests with offa (well, junk, and there they are ... ktob clean) 
++ Edit article itemov of WDB (+541) 
+- All sure to clean the cache of the game!
+
+Update 498_(8107)
++ All forum fixes (see "Accepted patches")
++ Bug reports fixes (see "Accepted patches")
++ Quest's scripts
++ Spawnes
++ Item/Creature/GObject templates fixes from WDB Cache
++ Midsummer Fire Festival - some updates.
+- It's necessary to drop a game cache
+
+Update 497_(8075)
++ All forum fixes (see "Accepted patches")
++ Bug reports fixes (see "Accepted patches")
++ Quest's scripts
++ Spawnes
++ Item/Creature/GObject templates fixes from WDB Cache
++ Damage & `dmg_multiplier` fixes according with `unit_class`
+- It's necessary to drop a game cache
+
+Update 496_(8044)
++ All forum fixes (see "Accepted patches")
++ Bug reports fixes (see "Accepted patches")
++ Quest's scripts
++ Spawnes
++ Item/Creature/GObject templates fixes from WDB-Cache
++ Fixed 132 Client Error
+- It's necessary to drop a game cache
+
+Update 495_(8028)
++ All forum fixes (see "Accepted patches")
++ Bug reports fixes (see "Accepted patches")
++ Quest's scripts
++ Spawnes
++ Loading errors fixes
++ New Item/Creature/GObject templates from WDB-Cache
++ Item's stats fixes from WDB-Cache
+- It's necessary to drop a game cache
+
+Update 494_(7990)
++ Switch to support 3.1.3
++ creature - 1800+
++ creature_involvedrelation - 175+
++ creature_loot_template - 3013+
++ creature_model_info - 642+
++ creature_questrelation -176+
++ creature_template - 1028+
++ fishing_loot_template - 243+
++ gameobject - 846+
++ gameobject_involvedrelation - 6+
++ gameobject_loot_template - 226+
++ gameobject_questrelation - 8+
++ gameobject_template - 392+
++ item_loot_template - 128+
++ item_template - 1308+
++ npc_trainer - 1984+
++ npc_vendor - 1594+
++ pickpocketing_loot_template - 66+
++ quest_template - 244 (trash-quests are dropped; need more data for 26 quests - nobody has not completed them on official servers)
++ Ulduar's closed (there are no scripts)
+
+Update 493_(7983)
++ All forum fixes (see "Accepted patches")
++ Bug reports fixes (see "Accepted patches")
++ Quest's scripts
++ Spawnes
++ NPC Points
++ NPC Texts
+
+Update 492_(7953)
++ All forum fixes (see "Accepted patches")
++ Bug reports fixes (see "Accepted patches")
++ Quest's scripts
++ Spawnes
+
+Update 491_ (7900) 
++ All fixes from the forum (see "adopted patches") 
++ Edits on bug reports (see "adopted patches") 
++ Scripts quests 
++ Settlement 
++ Pars damaga from offa the last (remaining) zone Nortrenda 
++ Table "spell_script_target" - all of which spelly able to find data 
++ Table "event_scripts" - all spelly (of event) that was able to find data 
++ "Pool" - fishing "classics" and crystals in Un'goro Crater " 
++ Update the table "spell_loot_template" by updating the kernel 
++ Edit article NPC
+
+Update 490_ (7863) 
++ All fixes from the forum (see "adopted patches") 
++ Edits on bug reports (see "adopted patches") 
++ Processing table "pet_levelstats" 
++ Full processing "Naxxramas" by scripts (to whom you want, hack http://ytdb.ru/forum/showthread.php?t=4680)
+
+Update 489_ (7817) 
++ All fixes from the forum (see "adopted patches") 
++ Edits on bug reports (see "adopted patches") 
++ "Pool" of all rarnyh - NPC in the world "rank = 2" 
++ Lutali ore processing by the changes in 3.ı.ı 
++ Settlement 
+- Complete scripts for the quests "489_EventAI_YTDB_FULL", they are in the database is a file perezalivat only if you completely in the base perezalili ACID / Heisei scripts
+
+Update 488_(7798) 
++ All fixes from the forum (see "adopted patches") 
++ Edits on bug reports (see "adopted patches") 
++ Settlement 
++ Correction terms quests
+
+Update 487_ (7732) 
++ Renumbering GUID in the tables associated with the GO, fully perezapisanny following table: 
+- Gameobject 
+- Gameobject_battleground 
+- Event_scripts 
+- Game_event_gameobject 
+- Gameobject_scripts 
+- Pool_gameobject 
+- Quest_start_scripts 
+- Quest_end_scripts 
+- Spell_scripts 
++ All edits for resettlement GO accepted only after the update. 
+- Query (can) is a long time, pour "SQLyog".
+
+Update 486_(7732)
++ All fixes from the forum (see "adopted patches") 
++ Edits on bug reports (see "adopted patches") 
+- All forces abandoned for the next shift, so that few edits
+
+Update 485_(7701)
++ All fixes from the forum (see "by editing") 
++ + + Renumbering GUID in the tables associated with the NPC, fully perezapisanny following table: 
++ + Creature 
++ + Creature_addon 
++ + Creature_movement 
++ + Creature_battleground 
++ + Game_event_creature 
++ + Game_event_creature_quest 
++ + Npc_gossip 
++ + Pool_creature
+
+Update 484_(7701) 
++ All fixes from the forum (see "by editing") 
++ Edits on bug reports (see "by editing") 
++ Correction terms quests 
++ Editing error loading 
++ Palaces Lightning / heroic 
++ Azzhol Nerub / heroic 
++ Ankahet / heroic 
++ The top Utgar / heroic 
++ Gundrak / heroic 
++ Amethyst fortress / heroic
+
+Update 483_ (7673) 
++ All fixes from the forum (see "by editing") 
++ Edits on bug reports (see "by editing") 
++ Correction terms quests 
++ Settlement 
++ Editing error loading 
++ Data keshey 
++ In front of casting update update ACID / NGP to pre-install the latest version of "483_corepatch_mangos_7635_to_7673.sql"
+
+Updating 482 _ (7635) 
++ all corrections from a forum (the section "the accepted editings" see) 
++ editings on bug reports (the section "the accepted editings" see) 
++ editing of conditions of quests + settling + filling of new tables 
++ reservation editing mobs 
++ Naxxramas/Heroik
+
+Updating 481 _ (7594) 
++ all corrections from a forum (the section "the accepted editings" see) 
++ editings on bug reports (the section "the accepted editings" see) 
++ settling
++ editing of conditions of quests
+
+===============================================================================================
+Update 480_ (7528) 
++ All fixes from the forum (see "made changes") 
++ Edits on bug reports (see "made changes") 
++ Settlement 
++ Correction terms quests 
++ Many minor fixes 
++ Full DC area, taking into account the phase 
+- Because of the lack of quests in scripts planish to hack (optional): http://ytdb.ru/forum/showthread.php?t=96
+
+Update 479_ (7483) 
++ All fixes from the forum (see "made changes") 
++ Edits on bug reports (see "made changes") 
++ Pars / addition "gameobject_loot_template" 
++ Pars / addition "npc_vendor" 
++ Data from WDB 
++ Settlement 
++ Pars abilok NPC 
++ Pars money NPC 
++ Pars article NPC
+
+Update 478_(7440)
++ all fixes from forum;
++ spawn fixes;
++ fixed/rewrited "skinning_loot_template" (save custom skinning loot, this sql script replace your own developments);
++ fixed/updated "item_template";
++ fixed/rewrited "item_loot_template" (save custom loot, this sql script replace your own developments);
++ fixed quests (about 160/ trash replaced);
++ fixed/rewrited "npc_vendor" (save custom vendors, this sql script replace your own developments);
++ at this moment preprocessed all the quests that exist in DB (about 2200 WotLK quests). If you found errors/bugs - please post your bug reports in appropriate section;
+
+Update 477_(7379)
++ all fixes from forum;
++ fix loot errors;
+
+Update 476_(7379)
++ all fixes from forum;
++ some fixes over bug report;
++ loot's parse (maybe author want to say "processing loot from parses");
++ processing creature_loot_template and pickpocketing_loot_template;
++ processing skinning_loot_template (not finally);
+
+Update 475_(7379)
++ all fixes from forum;
++ some fixes over bug report;
++ spawn;
++ quests (about 180);
++ Drak'Tharon Keep/heroic
+
+Updatepack 474
+requires core 7352
++ all accepted fixes from the forum
++ fixes from bugreports 
++ fixed more than 40 quests 
++ added/fixed some population
++ "RewOrReqMoney" data for quest_template
++ included data from WDB files
+
+Updatepack 473
+requires core 7335
++ all accepted fixes from the forum
++ fixes from bugreports 
++ fixed more than 20 quests 
++ added/fixed some population
++ Naxxramas normal included
+
+Updatepack 472
+requires core 7298
++ all accepted fixes from the forum
++ fixes from bugreports 
++ fixed more than 100 quests 
++ added/fixed some population
++ The Nexus heroic included
++ Halls of stone heroic included
++ fixes for battlegrounds
+
+Updatepack 471
+requires core 7265
++ all accepted fixes from the forum
++ fixes from bugreports 
++ fixed more than 120 quests 
++ added/fixed some population
+
+YTDB_098_R46.FINAL_rev7230_WotLK_+RUDB23
+Full Database
+Requires Core 7230
+supports 3.0.8‡ client version 
+everything is included in the release you just need to use core 7230. If you use newer you should apply sql fixes from mangos or the corepatches from the updatepacks and afterthat update the database

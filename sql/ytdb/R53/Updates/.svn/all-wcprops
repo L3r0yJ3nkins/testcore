@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/ytdbase/!svn/ver/277/R53/Updates
+END
+533_corepatch_mangos_9299_to_9311.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ytdbase/!svn/ver/267/R53/Updates/533_corepatch_mangos_9299_to_9311.sql
+END
+531_corepatch_characters_9225_to_9260.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ytdbase/!svn/ver/256/R53/Updates/531_corepatch_characters_9225_to_9260.sql
+END
+533_mangos_FIX_(9311).sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ytdbase/!svn/ver/267/R53/Updates/533_mangos_FIX_(9311).sql
+END
+531_mangos_FIX_(9260).sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ytdbase/!svn/ver/258/R53/Updates/531_mangos_FIX_(9260).sql
+END
+532_corepatch_mangos_9260_to_9299.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ytdbase/!svn/ver/263/R53/Updates/532_corepatch_mangos_9260_to_9299.sql
+END
+535_mangos_FIX_(9403).sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ytdbase/!svn/ver/277/R53/Updates/535_mangos_FIX_(9403).sql
+END
+531_corepatch_mangos_9225_to_9260.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ytdbase/!svn/ver/257/R53/Updates/531_corepatch_mangos_9225_to_9260.sql
+END
+534_corepatch_characters_9311_to_9356.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ytdbase/!svn/ver/268/R53/Updates/534_corepatch_characters_9311_to_9356.sql
+END
+535_corepatch_characters_9356_to_9403.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ytdbase/!svn/ver/275/R53/Updates/535_corepatch_characters_9356_to_9403.sql
+END
+534_corepatch_mangos_9311_to_9356.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ytdbase/!svn/ver/269/R53/Updates/534_corepatch_mangos_9311_to_9356.sql
+END
+534_mangos_FIX_(9356).sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ytdbase/!svn/ver/270/R53/Updates/534_mangos_FIX_(9356).sql
+END
+535_corepatch_mangos_9356_to_9403.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ytdbase/!svn/ver/276/R53/Updates/535_corepatch_mangos_9356_to_9403.sql
+END
+532_mangos_FIX_(9299).sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ytdbase/!svn/ver/264/R53/Updates/532_mangos_FIX_(9299).sql
+END

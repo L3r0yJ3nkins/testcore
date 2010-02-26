@@ -1,0 +1,47 @@
+Es handelt sich hier um ein Testcore für die WoD mit der Spielversion 3.3.2
+
+Der Core basiert auf den Orginal Core von mangos
+
+Inhalt ist 
+
+-->AH bot 
+-->Dual Spec 
+-->ScriptDev
+-->ytdb 
+
+
+Zum Kompelieren werden folgende Befehle genutzt 
+
+aclocal
+autoreconf --install --force
+autoheader
+autoconf
+automake --add-missing
+automake src/bindings/ScriptDev2/Makefile
+mkdir objdir
+cd objdir
+../cinfigure --prefix=/home/<userdir>/Core --sysconfdir=/home/<userdir>/Core/etc --enable-cli --enable-ra 
+--datadir=/home/<userdir>
+make && make install
+make clean
+
+Wobei <userdir> durch das Benutzerverzeichniss geändert werden muss 
+
+Das Kompelieren setzt vorraus das ihr Linux habt und alle nötigen Pakete vorhanden sind 
+
+* GCC 4.1.X ( gcc / g++ / cpp / fort77 / g77 / gpp)
+* automake
+* autoconf
+* glibc & glibc-dev(glibc headers) [ libc6 ]
+* make
+* mysql-server 4.1 ou mysql-server 5.0 && libmysql++-dev
+* libtool
+* OpenSSL (libssl-dev)
+* subversion et patch
+* git
+* zlibc 
+
+
+Per apt-get nutzt man folgenden Befehl 
+
+apt-get install build-essential binutils gcc g++ cpp automake autoconf make libmysql++-dev libtool libssl-dev subversion patch zlibc libc6 git-core
