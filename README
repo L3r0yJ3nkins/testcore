@@ -45,3 +45,9 @@ Das Kompelieren setzt vorraus das ihr Linux habt und alle nötigen Pakete vorhan
 Per apt-get nutzt man folgenden Befehl 
 
 apt-get install build-essential binutils gcc g++ cpp automake autoconf make libmysql++-dev libtool libssl-dev subversion patch zlibc libc6 git-core
+
+
+Coder am Core sind 
+
+Unknown L3r0yJ3nkins
+root DuxAquila (Arbeiten übern server)
